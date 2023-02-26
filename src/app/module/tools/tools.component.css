@@ -1,0 +1,12 @@
+
+.container{
+    padding: 20px;
+}
+.card-hover:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 4px rgba(96, 95, 95, 0.222);
+}
+
+.card {
+    transition: transform 0.6s ease;
+}
